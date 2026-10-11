@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcanary_docs=self.webpackChunkcanary_docs||[]).push([[634],{192:(r,a,c)=>{c.r(a),c.d(a,{default:()=>e});c(6540);var n=c(6347),s=c(4848);function e(){return(0,s.jsx)(n.rd,{to:"/intro"})}}}]);
